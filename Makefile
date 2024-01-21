@@ -1,5 +1,5 @@
 PKG_NAME := pypi-overrides
-URL = https://files.pythonhosted.org/packages/4d/27/30c865a1e62f1913a0730e667e94459ca038392b6f44d69ef7a585690337/overrides-7.4.0.tar.gz
+URL = https://files.pythonhosted.org/packages/85/dc/aac79b2b5dd94c4e0542615bc2e6211fafc1173c7c3be9395400f5a2b49c/overrides-7.6.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
